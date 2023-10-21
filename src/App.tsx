@@ -1,4 +1,4 @@
-import { HashRouter } from 'react-router-dom'
+import { BrowserRouter } from 'react-router-dom'
 import { ThemeProvider } from 'styled-components'
 
 import { Router } from './router'
@@ -10,9 +10,9 @@ export function App() {
     <>
       <ThemeProvider theme={defaultTheme}>
         <GlobalStyles />
-        <HashRouter>
+        <BrowserRouter>
           <Router />
-        </HashRouter>
+        </BrowserRouter>
       </ThemeProvider>
     </>
   )
