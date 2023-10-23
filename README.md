@@ -7,8 +7,7 @@ Este projeto é uma aplicação web React criada com Vite, desafio proposto pela
 Consiste em um blog onde os posts deste blog são issues de um repositório github, foi utilizado o mesmo repositório do codigo para as issues.
 Contem uma pagina Blog que mostra dados do perfil do usuário github e uma lista de posts resumidos, e uma pagina Post que mostra o post completo selecionado anterioremente na pagina Blog.
 
-### Acesse o projeto pelo link: 
-https://github-blog-one-xi.vercel.app/
+### Acesse o projeto <a href="https://github-blog-one-xi.vercel.app/" target="_blank">clicando aqui</a>
 
 # Tecnologias utilizadas
 - ReactJS
